@@ -1,0 +1,11 @@
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.csproj.AssemblyReference.cache
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.csproj.SuggestedBindingRedirects.cache
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.csproj.CoreCompileInputs.cache
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\bin\Debug\DiscordNitroUtils.exe.config
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\bin\Debug\DiscordNitroUtils.exe
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\bin\Debug\DiscordNitroUtils.pdb
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.exe
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.pdb
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\bin\Debug\Leaf.xNet.dll
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\bin\Debug\Leaf.xNet.xml
+C:\Users\Unbekannt\source\repos\DiscordNitroUtils\DiscordNitroUtils\obj\Debug\DiscordNitroUtils.csproj.CopyComplete
